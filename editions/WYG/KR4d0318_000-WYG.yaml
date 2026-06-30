@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4d0318/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部四
+  hash: sha256:feea65c2c5f7b24c3923896ddfefeaca5f2adb12a64602844adb735e91a1782a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0318_WYG_000-1a, image: WYG1176/WYG1176-0625a.png}
+body:
+  text: 翠微南征録别集類三宋提要臣等謹案翠微南征録十一巻宋華岳撰岳字子西貴池人為武學生開禧元年上書請誅韓侂胄蘇師旦下大理寺鞫治編管建寜侂胄誅放還登嘉定武科第一為殿前司官又謀去丞相史彌逺事覺下臨安獄杖死其集名南征者皆其竄建寜時所作翠微則其别號也此本巻首有新城王士禎題語曰宋華岳集十一巻名翠微南征録第一巻開禧元年上皇帝書請誅韓侂胄蘇師旦語最伉直餘詩十巻率麤豪使氣上侂胄詩云十廟英靈儼如在漫於宗社作穿窬及誅侂胄函首請和又有詩云反漢湏知為晁錯成秦恐不在於期皆不肯附和浮議盖陳東一流人如岳詩不以工拙論可也其持議頗允士禎又引吳興掌故云翠微集華亷字仲清著不知何據案岳名著史冊此集亦著録藝文志昭灼無疑華亷所著翠微集當别自一人一書與岳集不得相混士禎乃録以存疑則失於裁斷矣乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣
+  hash: sha256:ebf13c9fb01177d3084207b2d245af6d761657feab6da7ab9710a1e319ace33c
+metadata:
+  title: 翠微南征錄
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 01:23:22.160434'
+  source:
+    repository: kanripo
+    path: KR4d0318/KR4d0318_000.txt
+hash: sha256:df68f49a75e85e0df093a152c5971dafcc4ed1d620993e7c51d86f5e4e81b249

@@ -1,0 +1,95 @@
+canonical_identifier: bkk:krp/KR4d0318/bkk/v1/markers/0
+seq: 0
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4d0318_krp_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4d0318_SBCK_000-1a01}
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書集部四翠微南征録别集類三}
+  - {type: page-break, offset: 0, content: '', id: KR4d0318_WYG_000-1a, image: WYG1176/WYG1176-0625a.png}
+  - {type: variant, offset: 1, length: 3, content: 史本傳, WYG: 提要臣等謹案翠微南征録十一巻宋}
+  - {type: 'kr:newline', offset: 4, content: '
+
+      ', id: KR4d0318_krp_000-bkkkrnewl2}
+  - {type: line-break, offset: 4, content: '', id: KR4d0318_SBCK_000-1a02}
+  - {type: variant, offset: 5, length: 0, content: '', WYG: 岳撰}
+  - {type: substitution, offset: 5, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4348}}
+  - {type: variant, offset: 9, length: 0, content: '', WYG: 貴池人}
+  - {type: variant, offset: 13, length: 1, content: 輕, SBCK: 􅁿}
+  - {type: variant, offset: 13, length: 4, content: 輕財好俠, WYG: 開禧元年上書請誅}
+  - {type: variant, offset: 18, length: 1, content: 侂, SBCK: 􅇑}
+  - {type: substitution, offset: 18, original: 侂, replacement: 托, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4099}}
+  - {type: variant, offset: 19, length: 14, content: 冑當國岳上書云云書奏侂冑大怒, WYG: 胄蘇師旦}
+  - {type: substitution, offset: 19, original: 冑, replacement: 胄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4138}}
+  - {type: substitution, offset: 22, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4348}}
+  - {type: 'kr:newline', offset: 24, content: '
+
+      ', id: KR4d0318_krp_000-bkkkrnewl3}
+  - {type: line-break, offset: 24, content: '', id: KR4d0318_SBCK_000-1a03}
+  - {type: variant, offset: 29, length: 1, content: 侂, SBCK: 􅇑}
+  - {type: substitution, offset: 29, original: 侂, replacement: 托, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4099}}
+  - {type: substitution, offset: 30, original: 冑, replacement: 胄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4138}}
+  - {type: variant, offset: 36, length: 1, content: 貶, WYG: 寺鞫治編管}
+  - {type: variant, offset: 38, length: 31, content: 寕圜土中郡守傳伯成憐之命獄卒使岀入母繫伯成去又迕守李大異復寘獄, WYG: 寜}
+  - {type: substitution, offset: 38, original: 寕, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0116}}
+  - {type: 'kr:newline', offset: 44, content: '
+
+      ', id: KR4d0318_krp_000-bkkkrnewl4}
+  - {type: line-break, offset: 44, content: '', id: KR4d0318_SBCK_000-1a04}
+  - {type: substitution, offset: 53, original: 岀, replacement: 出, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3195}}
+  - {type: substitution, offset: 61, original: 迕, replacement: 忤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4185}}
+  - {type: 'kr:newline', offset: 64, content: '
+
+      ', id: KR4d0318_krp_000-bkkkrnewl5}
+  - {type: line-break, offset: 64, content: '', id: KR4d0318_SBCK_000-1a05}
+  - {type: substitution, offset: 67, original: 寘, replacement: 置, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1361}}
+  - {type: variant, offset: 69, length: 1, content: 侂, SBCK: 􅇑}
+  - {type: substitution, offset: 69, original: 侂, replacement: 托, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4099}}
+  - {type: variant, offset: 70, length: 1, content: 冑, WYG: 胄}
+  - {type: substitution, offset: 70, original: 冑, replacement: 胄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4138}}
+  - {type: variant, offset: 74, length: 3, content: 復入學, WYG: ''}
+  - {type: variant, offset: 78, length: 0, content: '', WYG: 嘉定武科}
+  - {type: variant, offset: 79, length: 0, content: '', WYG: 一}
+  - {type: 'kr:newline', offset: 84, content: '
+
+      ', id: KR4d0318_krp_000-bkkkrnewl6}
+  - {type: line-break, offset: 84, content: '', id: KR4d0318_SBCK_000-1a06}
+  - {type: variant, offset: 84, length: 5, content: 屬欝不得志, WYG: 又}
+  - {type: substitution, offset: 85, original: 欝, replacement: 鬱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0482}}
+  - {type: variant, offset: 94, length: 1, content: 弥, WYG: 彌}
+  - {type: variant, offset: 102, length: 3, content: 獄具坐, WYG: 杖死其集名南征者皆其竄建寜時所作翠微則其别號也此本巻首有新城王士禎題語曰宋華岳集十一巻名翠微南征録第一巻開禧元年上皇帝書請誅韓侂胄蘇師旦語最伉直餘詩十巻率麤豪使氣上侂胄詩云十廟英靈儼如在漫於宗社作穿窬及誅侂胄函首請和又有詩云反漢湏知為晁錯成秦恐不在於期皆不肯附和浮}
+  - {type: page-break, offset: 102, content: '', id: KR4d0318_WYG_000-1b, image: WYG1176/WYG1176-0625b.png}
+  - {type: 'kr:newline', offset: 104, content: '
+
+      ', id: KR4d0318_krp_000-bkkkrnewl7}
+  - {type: line-break, offset: 104, content: '', id: KR4d0318_SBCK_000-1a07}
+  - {type: variant, offset: 106, length: 6, content: 大臣當死寕宗, WYG: 盖陳東一流人如岳詩不以工拙論可也其持議頗允士禎又引吳興掌故云翠微集華亷字仲清著不}
+  - {type: page-break, offset: 106, content: '', id: KR4d0318_WYG_000-2a, image: WYG1176/WYG1176-0626a.png}
+  - {type: substitution, offset: 110, original: 寕, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0116}}
+  - {type: variant, offset: 113, length: 0, content: '', WYG: 何據案}
+  - {type: substitution, offset: 113, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4348}}
+  - {type: variant, offset: 115, length: 9, content: 欲生之彌逺曰是欲殺, WYG: 著史冊此集亦著録藝文志昭灼無疑華亷所著翠微集當别自一人一書與岳集不得相混士禎乃録以存疑則失於裁斷矣乾隆四十六年十月恭校上總纂官}
+  - {type: 'kr:newline', offset: 124, content: '
+
+      ', id: KR4d0318_krp_000-bkkkrnewl8}
+  - {type: line-break, offset: 124, content: '', id: KR4d0318_SBCK_000-1a08}
+  - {type: variant, offset: 125, length: 6, content: 者竟杖死東市, WYG: 紀昀臣陸錫熊臣}
+  - {type: 'kr:newline', offset: 131, content: '
+
+      ', id: KR4d0318_krp_000-bkkkrnewl9}
+  - {type: page-break, offset: 131, content: '', id: KR4d0318_SBCK_000-1b}
+  - {type: 'kr:newline', offset: 131, content: '
+
+      ', id: KR4d0318_krp_000-bkkkrnewl10}
+  - {type: page-break, offset: 131, content: '', id: KR4d0318_SBCK_000-1b}
+  - {type: 'kr:newline', offset: 131, content: '
+
+      ', id: KR4d0318_krp_000-bkkkrnewl11}
+  - {type: page-break, offset: 131, content: '', id: KR4d0318_SBCK_000-1b}
+  - {type: 'kr:newline', offset: 131, content: '
+
+      ', id: KR4d0318_krp_000-bkkkrnewl12}
+  back: []
+hash: sha256:ee417e5e1c23f55a4d88273018e4d4741fd8d263286f585697d23398a7e7c9aa

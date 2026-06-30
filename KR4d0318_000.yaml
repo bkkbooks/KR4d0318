@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4d0318/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宋史本傳華嶽字子西為武學生輕財好俠韓托胄當國嶽上書云云書奏托胄大怒下大理貶建寧圜土中郡守傳伯成憐之命獄卒使出入母繫伯成去又忤守李大異復置獄托胄誅放還復入學登第為殿前司官屬鬱不得志謀去丞相史弥逺事覺下臨安獄獄具坐議大臣當死寧宗知嶽名欲生之彌逺曰是欲殺臣者竟杖死東市
+  hash: sha256:086c4baf59df6df011b609c45a413e6886679fba5b808d760cc53fa8b3a23247
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0318_SBCK_000-1a}
+metadata:
+  title: 翠微南征錄
+  edition:
+    short: krp
+  base_edition: SBCK
+  date: '2015-09-12 01:23:22.160434'
+  source:
+    repository: kanripo
+    path: KR4d0318/KR4d0318_000.txt
+hash: sha256:4d829e0b4380e8e7922a483aca54b9d9687991af6131d6f5cf5f28b8989ca7e2
