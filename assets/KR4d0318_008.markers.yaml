@@ -127,6 +127,7 @@ markers:
   - {type: indent, offset: 251, content: 　　　, id: KR4d0318_krp_008-bkkind6}
   - {type: punctuation, offset: 256, content: (, id: KR4d0318_krp_008-bkkpn1}
   - {type: variant, offset: 256, length: 0, content: '', WYG: 翠㣲以丙寅春被命南下建安守王君告老别}
+  - {type: voice, offset: 256, length: 59, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 275, content: <, id: KR4d0318_krp_008-bkkkrnonc1}
   - {type: variant, offset: 275, length: 28, content: 折翠㣲以丙寅春被命南下建安守王君告老别謹以五十六字汚壁折, WYG: ''}
   - {type: 'kr:non-cjk', offset: 276, content: t="33", id: KR4d0318_krp_008-bkkkrnonc2}
@@ -447,6 +448,7 @@ markers:
   - {type: page-break, offset: 1028, content: '', id: KR4d0318_WYG_008-5b, image: WYG1176/WYG1176-0668b.png}
   - {type: punctuation, offset: 1032, content: (, id: KR4d0318_krp_008-bkkpn7}
   - {type: variant, offset: 1032, length: 20, content: 好賓客有鄉里之譽巨岀江水過門南仲求見有折, WYG: ''}
+  - {type: voice, offset: 1032, length: 59, name: note, id: n2}
   - {type: substitution, offset: 1041, original: 岀, replacement: 出, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19478}}
   - {type: variant, offset: 1044, length: 1, content: 過, SBCK: 􅂈}
   - {type: 'kr:non-cjk', offset: 1051, content: <, id: KR4d0318_krp_008-bkkkrnonc7}
@@ -505,6 +507,7 @@ markers:
   - {type: line-break, offset: 1147, content: '', id: KR4d0318_SBCK_008-4b01}
   - {type: indent, offset: 1147, content: 　　　, id: KR4d0318_krp_008-bkkind17}
   - {type: punctuation, offset: 1149, content: (, id: KR4d0318_krp_008-bkkpn13}
+  - {type: voice, offset: 1149, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1151, content: ), id: KR4d0318_krp_008-bkkpn14}
   - {type: 'kr:newline', offset: 1151, content: '
 
@@ -550,6 +553,7 @@ markers:
   - {type: indent, offset: 1263, content: 　　　, id: KR4d0318_krp_008-bkkind18}
   - {type: punctuation, offset: 1267, content: (, id: KR4d0318_krp_008-bkkpn15}
   - {type: variant, offset: 1267, length: 11, content: 以詩示之卿為感嘆垂泪折, WYG: ''}
+  - {type: voice, offset: 1267, length: 22, name: note, id: n4}
   - {type: 'kr:non-cjk', offset: 1277, content: <, id: KR4d0318_krp_008-bkkkrnonc13}
   - {type: 'kr:non-cjk', offset: 1278, content: t="33", id: KR4d0318_krp_008-bkkkrnonc14}
   - {type: punctuation, offset: 1278, content: /, id: KR4d0318_krp_008-bkkpn16}
@@ -611,6 +615,7 @@ markers:
   - {type: indent, offset: 1407, content: 　　　, id: KR4d0318_krp_008-bkkind20}
   - {type: punctuation, offset: 1411, content: (, id: KR4d0318_krp_008-bkkpn18}
   - {type: variant, offset: 1411, length: 11, content: 桐栢栁元用賜書以寄之折, WYG: ''}
+  - {type: voice, offset: 1411, length: 22, name: note, id: n5}
   - {type: substitution, offset: 1412, original: 栢, replacement: 柏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16879}}
   - {type: 'kr:non-cjk', offset: 1421, content: <, id: KR4d0318_krp_008-bkkkrnonc16}
   - {type: 'kr:non-cjk', offset: 1422, content: t="33", id: KR4d0318_krp_008-bkkkrnonc17}
@@ -696,6 +701,7 @@ markers:
   - {type: indent, offset: 1613, content: 　　　, id: KR4d0318_krp_008-bkkind23}
   - {type: punctuation, offset: 1617, content: (, id: KR4d0318_krp_008-bkkpn21}
   - {type: variant, offset: 1617, length: 0, content: '', WYG: 翠㣲在西關有客送僧字韻詩求}
+  - {type: voice, offset: 1617, length: 46, name: note, id: n6}
   - {type: 'kr:non-cjk', offset: 1630, content: <, id: KR4d0318_krp_008-bkkkrnonc19}
   - {type: variant, offset: 1630, length: 24, content: 折翠㣲在西関有客送僧字韵詩求閑和尚之語就𢋫其韵折, WYG: ''}
   - {type: 'kr:non-cjk', offset: 1631, content: t="33", id: KR4d0318_krp_008-bkkkrnonc20}
@@ -780,6 +786,7 @@ markers:
   - {type: indent, offset: 1786, content: 　　　, id: KR4d0318_krp_008-bkkind26}
   - {type: punctuation, offset: 1790, content: (, id: KR4d0318_krp_008-bkkpn27}
   - {type: variant, offset: 1790, length: 3, content: 間韵折, WYG: ''}
+  - {type: voice, offset: 1790, length: 12, name: note, id: n7}
   - {type: substitution, offset: 1791, original: 韵, replacement: 韻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17636}}
   - {type: 'kr:non-cjk', offset: 1792, content: <, id: KR4d0318_krp_008-bkkkrnonc25}
   - {type: 'kr:non-cjk', offset: 1793, content: t="33", id: KR4d0318_krp_008-bkkkrnonc26}
@@ -831,6 +838,7 @@ markers:
   - {type: indent, offset: 1886, content: 　　　, id: KR4d0318_krp_008-bkkind28}
   - {type: punctuation, offset: 1890, content: (, id: KR4d0318_krp_008-bkkpn31}
   - {type: variant, offset: 1890, length: 3, content: 次韵折, WYG: ''}
+  - {type: voice, offset: 1890, length: 7, name: note, id: n8}
   - {type: substitution, offset: 1891, original: 韵, replacement: 韻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17636}}
   - {type: 'kr:non-cjk', offset: 1892, content: <, id: KR4d0318_krp_008-bkkkrnonc31}
   - {type: 'kr:non-cjk', offset: 1893, content: t="33", id: KR4d0318_krp_008-bkkkrnonc32}
@@ -923,6 +931,7 @@ markers:
   - {type: punctuation, offset: 2075, content: (, id: KR4d0318_krp_008-bkkpn34}
   - {type: variant, offset: 2075, length: 2, content: 韵折, WYG: ''}
   - {type: substitution, offset: 2075, original: 韵, replacement: 韻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17636}}
+  - {type: voice, offset: 2075, length: 3, name: note, id: n9}
   - {type: 'kr:non-cjk', offset: 2076, content: <, id: KR4d0318_krp_008-bkkkrnonc34}
   - {type: 'kr:non-cjk', offset: 2077, content: t="33", id: KR4d0318_krp_008-bkkkrnonc35}
   - {type: punctuation, offset: 2077, content: /, id: KR4d0318_krp_008-bkkpn35}
@@ -952,6 +961,7 @@ markers:
   - {type: line-break, offset: 2120, content: '', id: KR4d0318_SBCK_008-7a10}
   - {type: punctuation, offset: 2120, content: (, id: KR4d0318_krp_008-bkkpn37}
   - {type: variant, offset: 2120, length: 7, content: 城則率百官之折, WYG: ''}
+  - {type: voice, offset: 2120, length: 14, name: note, id: n10}
   - {type: punctuation, offset: 2125, content: /, id: KR4d0318_krp_008-bkkpn38}
   - {type: 'kr:non-cjk', offset: 2126, content: <, id: KR4d0318_krp_008-bkkkrnonc37}
   - {type: 'kr:non-cjk', offset: 2127, content: t="33", id: KR4d0318_krp_008-bkkkrnonc38}
@@ -989,6 +999,7 @@ markers:
   - {type: line-break, offset: 2179, content: '', id: KR4d0318_SBCK_008-7b04}
   - {type: punctuation, offset: 2179, content: (, id: KR4d0318_krp_008-bkkpn41}
   - {type: variant, offset: 2179, length: 0, content: '', WYG: 建安邸中㸑}
+  - {type: voice, offset: 2179, length: 11, name: note, id: n11}
   - {type: 'kr:non-cjk', offset: 2184, content: <, id: KR4d0318_krp_008-bkkkrnonc40}
   - {type: variant, offset: 2184, length: 6, content: 折建安邸中㸑, WYG: ''}
   - {type: 'kr:non-cjk', offset: 2185, content: t="33", id: KR4d0318_krp_008-bkkkrnonc41}
@@ -1011,6 +1022,7 @@ markers:
   - {type: punctuation, offset: 2232, content: (, id: KR4d0318_krp_008-bkkpn44}
   - {type: variant, offset: 2232, length: 3, content: 礼韵折, WYG: ''}
   - {type: substitution, offset: 2232, original: 礼, replacement: 禮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16287}}
+  - {type: voice, offset: 2232, length: 6, name: note, id: n12}
   - {type: substitution, offset: 2233, original: 韵, replacement: 韻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17636}}
   - {type: 'kr:non-cjk', offset: 2234, content: <, id: KR4d0318_krp_008-bkkkrnonc43}
   - {type: 'kr:non-cjk', offset: 2235, content: t="33", id: KR4d0318_krp_008-bkkkrnonc44}
@@ -1053,6 +1065,7 @@ markers:
   - {type: line-break, offset: 2281, content: '', id: KR4d0318_SBCK_008-8a01}
   - {type: punctuation, offset: 2281, content: (, id: KR4d0318_krp_008-bkkpn47}
   - {type: variant, offset: 2281, length: 0, content: '', WYG: 翠㣲向有書堂遇雨押承字韻和}
+  - {type: voice, offset: 2281, length: 27, name: note, id: n13}
   - {type: variant, offset: 2287, length: 1, content: 峯, SBCK: 􅄘}
   - {type: variant, offset: 2290, length: 1, content: 𣸪, SBCK: 􅂧}
   - {type: variant, offset: 2290, length: 8, content: 𣸪自𢋫韵折翠㣲向, WYG: 復}
@@ -1096,4 +1109,4 @@ markers:
 
       ', id: KR4d0318_krp_008-bkkkrnewl159}
   back: []
-hash: sha256:cec8a9a443731819a55493e9a74fc3762149f14d1a073ebcb68c8c7601982940
+hash: sha256:07e8c8645679d83d3043ecd9f9ccb63a7eb861dd8a2741740880cbfa1e83cf27
